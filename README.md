@@ -1,4 +1,7 @@
-# test coverage for  [gulp-cssnano (v2.1.2)](https://github.com/ben-eb/gulp-cssnano)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cssnano.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cssnano) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cssnano.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cssnano)
+# npmtest-gulp-cssnano
+
+#### basic test coverage for  [gulp-cssnano (v2.1.2)](https://github.com/ben-eb/gulp-cssnano)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cssnano.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cssnano) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cssnano.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cssnano)
+
 #### Minify CSS with cssnano.
 
 [![NPM](https://nodei.co/npm/gulp-cssnano.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-cssnano)
